@@ -1,0 +1,25 @@
+body{
+    width: 90%;
+    margin: auto;
+
+    font-family: sans-serif;
+
+    background: url(bg.jpg.jpg)center;
+color: white;
+
+ 
+ .band-name, .headline {
+     text-align: center;}
+
+     .concerts {
+         margin: 30px;
+         text-align: center;
+         width: 100%;
+     }
+#menu-h{
+    list-style-type: none;
+}
+     #menu-h li{
+         display: inline;
+
+     }
